@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
+# SPDX-License-Identifier: MIT
+# Modified by Robert N.
+
 import time
 
 from adafruit_circuitplayground import cp
